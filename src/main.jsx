@@ -4,6 +4,7 @@ import './index.css'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
+    <img src="./react-logo.png" width = "100px" />
     <h1>Fun Facts About React</h1>
     <ul>
       <li>It was released in 2013</li>
