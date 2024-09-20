@@ -6,6 +6,11 @@ function NavBar() {
   return (
     <nav>
       <img src="./react-logo.png" width = "100px" />
+      <ul className='navbar'>
+        <li>Pricing</li>
+        <li>About</li>
+        <li>Contact</li>
+      </ul>
     </nav>
   )
 }
