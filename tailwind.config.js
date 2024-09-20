@@ -6,12 +6,16 @@ export default {
   ],
   theme: {
     extend: {
-      colors:{
+      colors: {
         'light-blue': "#61DAFB",
         'dark-gray': "#21222A",
         'mid-gray': "#282D35",
         'mid-light-gray': "#2E2F37"
       },
+      fontFamily: {
+        inter: ['"Inter"'],
+        sofadi: ["Sofadi One"]
+      }
     },
   },
   plugins: [],
