@@ -7,7 +7,7 @@ import Footer from './Components/Footer';
 
 function App() {
   return(
-    <div className='flex flex-col h-screen bg-mid-gray'>
+    <div className='flex flex-col h-screen bg-mid-gray bg-[url("./main-react-logo.png")] bg-no-repeat bg-[right_75%]' >
       <Header />
       <Body />
       <Footer />
