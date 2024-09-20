@@ -1,6 +1,6 @@
 function Header() {
     return (
-        <nav className="flex justify-between items-center p-4 shadow-md bg-mid-gray">
+        <nav className="flex justify-between items-center p-4 shadow-md bg-dark-gray">
             <div className="flex gap-1">
                 <img src="./react_logo.png" className='w-auto' />
                 <h4 className="text-light-blue font-bold font-serif">ReactFacts</h4>
